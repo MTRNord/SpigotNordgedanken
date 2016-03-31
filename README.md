@@ -1,3 +1,3 @@
 Spigot Nordgedanken Plugin
 ==========================
-[![](https://jitpack.io/v/MTRNord/SpigotNordgedanken.svg)](https://jitpack.io/#MTRNord/SpigotNordgedanken)
+[![](https://jitpack.io/v/Nordgedanken/SpigotNordgedanken.svg)](https://jitpack.io/#Nordgedanken/SpigotNordgedanken)
